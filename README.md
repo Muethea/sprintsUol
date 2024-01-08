@@ -65,3 +65,8 @@ Este é um simples sistema de verificação de PIN (Número de Identificação P
     2. Insira um PIN de quatro dígitos no campo de entrada.
     3. Clique no botão para verificar se o PIN está correto.
     4. Receba feedback sobre a precisão da sua tentativa.
+
+
+## Exemplo do Output
+
+![Captura de ecrã de 2024-01-08 19-51-10](https://github.com/Muethea/sprintsUol/assets/64161845/36ea8691-44ee-402d-b1a4-91cdd7db4799)
