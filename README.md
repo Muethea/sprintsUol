@@ -71,7 +71,7 @@ Este é um simples sistema de verificação de PIN (Número de Identificação P
 
 ![Captura de ecrã de 2024-01-08 19-51-10](https://github.com/Muethea/sprintsUol/assets/64161845/36ea8691-44ee-402d-b1a4-91cdd7db4799)
 
-![Captura de ecrã de 2024-01-09 13-24-00](https://github.com/Muethea/sprintsUol/assets/64161845/219c8b7a-255c-42d3-9547-6905a7f4d402)
+![Captura de ecrã de 2024-01-09 13-28-56](https://github.com/Muethea/sprintsUol/assets/64161845/b9010a61-53f0-4a42-9627-51f1dd8b0491)
 
-![Captura de ecrã de 2024-01-09 13-24-23](https://github.com/Muethea/sprintsUol/assets/64161845/48d3d96e-e178-4f9e-8787-d9d0d5ce80c6)
+![Captura de ecrã de 2024-01-09 13-29-10](https://github.com/Muethea/sprintsUol/assets/64161845/97e4f156-f155-46a7-a0ec-6a049425caed)
 
