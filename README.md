@@ -61,9 +61,9 @@ Este é um simples sistema de verificação de PIN (Número de Identificação P
 
 
 ## Tecnologias usadas
-    - HTML
-    - CSS
-    - JS
+ - HTML
+ - CSS
+ - JS
 
 ## Uso
 
