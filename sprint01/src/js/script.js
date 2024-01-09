@@ -15,7 +15,7 @@ function checknumber() {
   // Converter o numero para o tipo interiro
   const pin = parseInt(userInput)
   console.log('Parsed pin ', pin)
-  
+
   if (pin > 9999) {
     document.getElementById('resultado').innerHTML =
       'Por favor, insira um pin com  máximo quatro dígitos.'
@@ -30,18 +30,19 @@ function checknumber() {
     let feedback = ''
 
     if (Math.abs(pin - expectedValue) <= 100) {
-      feedback = 'Você está muito próximo'
+      feedback = 'Você está muito próximo do correto'
     } else if (pin > expectedValue) {
-      feedback = 'Muito maior'
+      feedback = 'Muito maior  que o correto'
     } else {
-      feedback = 'Muito menor'
+      feedback = 'Muito menor  que o correto'
     }
 
     document.getElementById(
       'resultado'
-    ).innerHTML = `Tente novamente. ${feedback} que o numero esperado. O valor correto era ${expectedValue}.`
+    ).innerHTML = `Tente novamente. ${feedback} . O valor correto era ${expectedValue}.`
     console.log(
       `Tente novamente. ${feedback} que o numero digitado. O valor correto era ${expectedValue}.`
     )
   }
 }
+
