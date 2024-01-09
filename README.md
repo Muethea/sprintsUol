@@ -67,10 +67,10 @@ Este é um simples sistema de verificação de PIN (Número de Identificação P
 
 ## Uso
 
-    1. Abra o arquivo HTML no navegador.
-    2. Insira um PIN de quatro dígitos no campo de entrada.
-    3. Clique no botão para verificar se o PIN está correto.
-    4. Receba feedback sobre a precisão da sua tentativa.
+ 1. Abra o arquivo HTML no navegador.
+ 2. Insira um PIN de quatro dígitos no campo de entrada.
+ 3. Clique no botão para verificar se o PIN está correto.
+ 4. Receba feedback sobre a precisão da sua tentativa.
 
 
 ## Exemplos do Output
